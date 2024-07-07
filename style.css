@@ -1,0 +1,38 @@
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://w0.peakpx.com/wallpaper/369/751/HD-wallpaper-mountain-landscape-sunset-minimalist-1-minimalism-minimalist-mountains-landscape-1-1-abstract-vector-deviantart-sunset.jpg");
+    background-size: 100%;
+}
+
+.container{
+    height: 50vh;
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    background-color: rgba(255, 255, 255, 0.342);
+    border-radius: 10px;
+}
+input{
+    border: none;
+    height: 2rem;
+    width: 15rem;
+    border-radius: 5px;
+}
+
+button{
+    border: none;
+    height: 2rem;
+    width: 5rem;
+    background-color:rgb(119, 34, 255);
+    border-radius: 5px;
+}
+
+h1{
+color: aliceblue;
+}
